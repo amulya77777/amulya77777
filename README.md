@@ -45,8 +45,10 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
-![Visitor Count](https://img.shields.io/badge/dynamic/json?color=blue&label=Visitors&query=value&url=https://api.countapi.xyz/hit/amulya77777.amulya77777/readme)
 
+![Profile views](https://komarev.com/ghpvc/?username=amulya77777&label=Profile%20views&color=0e75b6&style=flat)
+
+<!-- ![Visitor Count](https://count.getloli.com/get/@amulya77777?theme=rule34) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amulya77777&layout=compact&theme=radical)
 
