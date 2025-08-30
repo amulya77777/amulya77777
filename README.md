@@ -44,7 +44,9 @@
 ![Git](https://img.shields.io/badge/Git-999999?style=for-the-badge&logo=Git&logoColor=red)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=amulya77777.amulya77777)
+
+![Visitor Count](https://img.shields.io/badge/dynamic/json?color=blue&label=Visitors&query=value&url=https://api.countapi.xyz/hit/amulya77777.amulya77777/readme)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amulya77777&layout=compact&theme=radical)
 
